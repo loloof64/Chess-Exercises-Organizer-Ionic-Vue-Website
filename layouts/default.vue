@@ -75,6 +75,16 @@ export default {
           title: 'Welcome',
           to: '/',
         },
+        {
+          icon: 'mdi-shield-lock-outline',
+          title: 'Privacy',
+          to: '/privacy',
+        },
+        {
+          icon: 'mdi-baby-carriage',
+          title: 'Use condition',
+          to: '/use_condition',
+        },
       ],
       miniVariant: false,
       right: true,

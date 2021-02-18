@@ -1,20 +1,11 @@
 # chess-exercises-organizer-website
 
-## Build Setup
+Nuxt Website for project ChessExercisesOrganierIonicVue
 
-```bash
-# install dependencies
-$ yarn install
+## Development
 
-# serve with hot reload at localhost:3000
-$ yarn dev
+`yarn dev`
 
-# build for production and launch server
-$ yarn build
-$ yarn start
+## Build
 
-# generate static project
-$ yarn generate
-```
-
-For detailed explanation on how things work, check out [Nuxt.js docs](https://nuxtjs.org).
+`yarn build`

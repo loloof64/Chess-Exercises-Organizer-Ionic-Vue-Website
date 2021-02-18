@@ -10,4 +10,4 @@ Nuxt Website for project ChessExercisesOrganierIonicVue
 
 ## Build
 
-`yarn build`
+`yarn generate`

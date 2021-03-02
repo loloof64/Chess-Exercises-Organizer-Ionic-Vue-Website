@@ -22,7 +22,7 @@
 
           <p>Its main features are :</p>
           <ul>
-            <li>the use of Stockfish 11 for the computer play,</li>
+            <li>the use of Stockfish 13 for the computer play,</li>
             <li>the possibility to use some integrated PGN files,</li>
             <li>the possibility to create your own PGN files,</li>
             <li>
